@@ -1,8 +1,8 @@
-# Recipe Finder
+# Chef's Choice
 
 A modern web application for discovering and exploring recipes from around the world.
 
-![Recipe Finder Hero](./src/assets/readme-screenshot.png)
+
 
 ## Features
 
