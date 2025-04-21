@@ -53,7 +53,7 @@ function App() {
               <div className="flex justify-between items-center h-20">
                 <div className="flex items-center space-x-8">
                   <Link to="/" className="text-3xl font-bold bg-gradient-to-r from-blue-500 to-blue-600 bg-clip-text text-transparent">
-                    RecipeFinder
+                    Chef's Choice
                   </Link>
                   <div className="hidden md:flex space-x-2">
                     <NavLink to="/">Home</NavLink>
